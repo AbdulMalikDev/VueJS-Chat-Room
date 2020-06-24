@@ -1,6 +1,6 @@
-# ninja-chat-real-time
+# Real-Time VueJS Chatroom
 
-> A Vue.js project
+> A Chatroom built with the JavaScript Framwork VueJS
 
 ## Build Setup
 
