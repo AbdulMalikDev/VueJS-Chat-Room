@@ -2,6 +2,13 @@
 
 > A Chatroom built with the JavaScript Framwork VueJS
 
+<br/>
+<br/>
+
+Intro Page               |  Chat Page               
+:-------------------------:|:-------------------------:
+![](https://github.com/AbdulMalikDev/VueJS-Chat-Room/blob/master/1.PNG)|![](https://github.com/AbdulMalikDev/VueJS-Chat-Room/blob/master/2.PNG)|![]
+
 ## Build Setup
 
 ``` bash
@@ -19,3 +26,9 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+For the complete Tutorial Visit :
+
+<br/>
+
+[VueJS Tutorial](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
